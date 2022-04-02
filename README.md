@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @obrobrio2000
 - 👀 I’m interested in everything about programming, software and computer science
-- 🌱 I’m currently taking a B.S. in "Computer Science and Automation Engineering", with the intent of continuing my studies with a Master's Degree in "Engineering in Computer Science"
+- 🌱 I’m currently taking a BSc in "Computer and System Engineering", with the intent of continuing my studies with a MSc in "Engineering in Computer Science"
 - 💞️ I’m looking to collaborate on some interesting project for this summer
 - 📫 You can reach me here on GitHub or @maggiovs on Instagram
