@@ -1,4 +1,4 @@
-<h1 align="center">Giovanni Magliocchetti</h1>
+<h1 align="center">Giovanni M.</h1>
 
 <p align="center">👋 Hi, I’m @obrobrio2000 👋</p>
 
