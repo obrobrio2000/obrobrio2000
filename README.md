@@ -1,6 +1,6 @@
-<h1 align="center">Giovanni M.</h1>
+<h1 align="center">@obrobrio2000</h1>
 
-<p align="center">👋 Hi, I’m @obrobrio2000 👋</p>
+<p align="center">👋 Hi, I’m Giovanni 👋</p>
 
 <p align="center">👀 Interested in everything about programming, software, computer science 👀</p>
 
